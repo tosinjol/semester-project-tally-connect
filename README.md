@@ -15,3 +15,9 @@ Event organizers can efficiently create, manage, and update their listings, stre
 
 # Milestones
 In this section we summarize each milestone and link to a more detail document of artifacts for each.
+
+## Milestone 1
+
+## Milestone 2
+
+# Presentation
