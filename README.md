@@ -273,8 +273,4 @@ Some non-functional requirements for your app might include:
 | `date`         | Date            | Date of the opportunity.                               |
 
 
-# Presentation
-
-https://github.com/user-attachments/assets/3a3eb558-42ef-41b2-8e3f-cdfba6689c46
-
 
